@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1608633128 source:c:\users\firas kaabi\desktop\firaskaabi\gogame\joueur_vs_machine.c
+	"data.h"
+	<time.h>
+
+1607980614 c:\users\firas kaabi\desktop\firaskaabi\gogame\data.h
+
+1608633338 source:c:\users\firas kaabi\desktop\firaskaabi\gogame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1608633289 source:c:\users\firas kaabi\desktop\firaskaabi\gogame\graphics.c
+	"data.h"
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+
+1608633380 source:c:\users\firas kaabi\desktop\firaskaabi\gogame\regles_du_jeu_fonctions.c
+	"data.h"
+	<time.h>
+
+1608136696 source:c:\users\firas kaabi\desktop\firaskaabi\gogame\joueur_joueur.c
+	"data.h"
+
